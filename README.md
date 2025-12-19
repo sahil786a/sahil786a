@@ -4,9 +4,9 @@
 <h3 align="center">Full‑Stack Developer | Backend & Cloud Enthusiast | Open‑Source Learner</h3>
 
 <p align="center">
-  I craft visually appealing, responsive, and user-friendly web designs, then build scalable backend applications, REST APIs, and cloud-ready solutions.  
+  I craft visually appealing, responsive, and user-friendly web designs, <br/> then build scalable backend applications,<br/> REST APIs, and cloud-ready solutions.  
   <br/>
-  Passionate about clean code, performance, automation, and learning new technologies 🚀
+  Passionate about clean code, performance, <br/> automation, and learning new technologies 🚀
 </p>
 
 
