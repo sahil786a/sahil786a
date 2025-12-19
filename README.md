@@ -65,16 +65,3 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=sahil786a&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sahil786a&icon=5&color=6" />
-</p>
-
----
-
-<p align="center">
-  <i>⭐ If you like my work, consider following me on GitHub!</i>
-</p>
