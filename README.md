@@ -4,10 +4,11 @@
 <h3 align="center">Full‑Stack Developer | Backend & Cloud Enthusiast | Open‑Source Learner</h3>
 
 <p align="center">
-  I build scalable web applications, REST APIs, and cloud‑ready solutions.
+  I craft visually appealing, responsive, and user-friendly web designs, then build scalable backend applications, REST APIs, and cloud-ready solutions.  
   <br/>
-  Passionate about clean code, automation, and learning new technologies 🚀
+  Passionate about clean code, performance, automation, and learning new technologies 🚀
 </p>
+
 
 <p align="center">
   <a href="mailto:sahilsdl019@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
